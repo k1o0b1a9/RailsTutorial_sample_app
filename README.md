@@ -42,3 +42,8 @@ $ rails server
 
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
+
+## 修正用メモ
+- 全ページの細かいレイアウト→custom.scss
+- 各ページの大枠→application.html.erb
+- タイトル出力用関数→application_helper.rb
